@@ -1,0 +1,11 @@
+{
+  "name": "Mike Gym Tracker",
+  "short_name": "Gym Tracker",
+  "description": "Personal strength and calisthenics workout tracker",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f4f6",
+  "theme_color": "#111827",
+  "orientation": "portrait",
+  "icons": []
+}
